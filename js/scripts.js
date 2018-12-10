@@ -1,5 +1,10 @@
 $(document).ready(function() {
-  
+  $("div.panel-heading").click(function() {
+    $("div.options").hide();
+    var answerId = $(this).attr("id");
+    $("div#" + answerId + "-ans").toggle();
+  });
+
   var correctAnswers = [2, 1, 3, 3, 2, 2, 4, 2, 4, 2, 3, 1];
   $("form").submit(function(event) {
     event.preventDefault();
