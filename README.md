@@ -39,7 +39,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - [Bootstrap library](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp) - Bootstrap is a free front-end framework for faster and easier web development. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. It also gives you the ability to easily create responsive designs
 - [jQuery](https://developers.google.com/chart/interactive/docs/quick_start) -It's a JavaScript Library. Advantage of using jQuery is that it greatly simplifies JavaScript programming.
 ## Link to my live site on GitHub Pages
-- [Quiz Board for JavaScript](https://anumasif.github.io/quiz-board/)
+- [Quiz Board for JavaScript]
 ## Support and contact details
 Please feel free to contact me if you have any suggestion for me to improve this website.
 - Email: anum@cockar.com
